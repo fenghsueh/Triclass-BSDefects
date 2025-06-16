@@ -14,19 +14,19 @@ The dataset consists of RGB images (150×150 pixels) representing different surf
 
 The contaminated class consists of re-labeled samples from the original `normal` category that exhibited clear signs of lubricant contamination.
 
-### Directory Layout
+## Directory Layout
 
-KIT-BS-recls/
+``KIT-BS-recls/``
 
-├── labels.txt        # Label file with {sample_path}{space}{integer_label} format
+``├── labels.txt        # Label file with {sample_path}{space}{integer_label} format``
 
-├── samples/
+``├── samples/``
 
-│   ├── contaminated/ # Lubricant-contaminated samples
+``│   ├── contaminated/ # Lubricant-contaminated samples``
 
-│   ├── normal/       # Normal surface samples
+``│   ├── normal/       # Normal surface samples``
 
-│   └── pitting/      # Pitting defect samples
+``│   └── pitting/      # Pitting defect samples``
 
 
 
@@ -52,9 +52,8 @@ If you use this dataset or find it helpful, please consider citing the original 
    - Schlagenhauf, Tobias (2023): Ball Screw Drive Surface Defect Dataset for Classification. Karlsruhe Institute of Technology. DOI: 10.35097/1511
 
 2. This repository & related paper: 
-   - https://github.com/fenghsueh/BSDefects.Relabeled 
-   - Feng Xue, Weimin Zhang, Shulian Xie, Alexander Puchta, Jürgen Fleischer. Domain-unique group- and its subgroup-aware diagnostics for ball screw surface defects: An open set domain adaptation approach. (Under review)
-   - The final citation format will be formally settled once the related paper is published online.
+   - Feng Xue, Weimin Zhang, Shulian Xie, Alexander Puchta, Jürgen Fleischer. Domain-unique group- and its subgroup-aware diagnostics for ball screw surface defects: An open set domain adaptation approach. https://github.com/fenghsueh/Triclass-BSDefects (Under review)
+   - *The final citation format will be formally settled once the related paper is published online.*
 
 
 ## Access to Original Dataset
