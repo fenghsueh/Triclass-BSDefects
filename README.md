@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the public repository hosting the three-class dataset for ball screw surface defects, hereinafter referred as ``KIT-BS-recls``, used in the journal paper “Domain-unique group- and its subgroup-aware fault diagnostics for machine components: An open set domain adaptation approach” (under review) from amtc Advanced Manufacturing Technology Center at Tongji University. 
+This is the public repository hosting the three-class dataset for ball screw surface defects, hereinafter referred as ``KIT-BS-recls``, used in the journal paper “**Domain-unique group- and its subgroups-aware fault diagnostics for machine components: An open-set domain adaptation approach**” (under review) from amtc Advanced Manufacturing Technology Center at Tongji University. 
 
 It is a reclassified version of the original bi-class dataset published by the wbk Institute of Production Science at the Karlsruhe Institute of Technology, hereinafter referred as ``KIT-BS``.
 
@@ -58,7 +58,7 @@ If you use this dataset or find it helpful, please consider citing the original 
 2. This repository & related paper: 
    - https://github.com/fenghsueh/Triclass-BSDefects 
    
-   - Feng Xue, Weimin Zhang, Shulian Xie, Alexander Puchta, Jürgen Fleischer. Domain-unique group- and its subgroup-aware fault diagnostics for machine components: An open set domain adaptation approach. (Under review)
+   - Feng Xue, Weimin Zhang, Shulian Xie, Alexander Puchta, Jürgen Fleischer. Domain-unique group- and its subgroups-aware fault diagnostics for machine components: An open-set domain adaptation approach. (Under review)
    
    - *The final citation format will be formally settled once the related paper is published online.*
    
