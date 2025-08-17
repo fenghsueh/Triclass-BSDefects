@@ -56,6 +56,7 @@ If you use this dataset or find it helpful, please consider citing our paper and
 @article{XUE2025131291,
 title = {Domain-unique group- and its subgroups-aware fault diagnostics for machine components: An open-set domain adaptation approach},
 journal = {Neurocomputing},
+volume = {653},
 pages = {131291},
 year = {2025},
 issn = {0925-2312},
