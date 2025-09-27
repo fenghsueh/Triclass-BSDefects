@@ -38,7 +38,7 @@ KIT-BS-recls/
 
 ## How to Use
 
-1. Clone this repository.
+1. ⭐️Star & 📥Clone this repository.
 2. Use `KIT-BS-recls/samples` for reclassified images in three class groups. Each image is a 150×150 RGB `.png` file.
 3. Use `labels.txt` for supervised learning setups; it maps each image file directory to its class label.
 
