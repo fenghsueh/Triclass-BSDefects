@@ -29,7 +29,7 @@ README.md
 demo.png
 LICENSE.txt
 KIT-BS-recls/
-├── labels.txt        	# Label file with {sample_path}{space}{integer_label} format
+├── labels.txt        	# Label file, each r formatted as {sample_path}{space}{integer_label}
 ├── samples/
 │   ├── contaminated/ 	# Lubricant-contaminated samples
 │   ├── normal/       	# Normal surface samples
