@@ -1,0 +1,40 @@
+# This is the citation file for the "Tri-classified Dataset for Ball Screw Surface Defects".
+# Please cite the following paper if you use this dataset in your research.
+
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the associated journal paper."
+title: "Tri-classified Dataset for Ball Screw Surface Defects (KIT-BS-recls)"
+authors:
+  - family-names: "Xue"
+    given-names: "Feng"
+  - family-names: "Zhang"
+    given-names: "Weimin"
+  - family-names: "Xie"
+    given-names: "Shulian"
+  - family-names: "Puchta"
+    given-names: "Alexander"
+  - family-names: "Fleischer"
+    given-names: "Jürgen"
+    
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Xue"
+    given-names: "Feng"
+  - family-names: "Zhang"
+    given-names: "Weimin"
+  - family-names: "Xie"
+    given-names: "Shulian"
+  - family-names: "Puchta"
+    given-names: "Alexander"
+  - family-names: "Fleischer"
+    given-names: "Jürgen"
+  title: "Domain-unique group- and its subgroups-aware fault diagnostics for machine components: An open-set domain adaptation approach"
+  journal: "Neurocomputing"
+  volume: 653
+  pages: 131291
+  year: 2025
+  issn: "0925-2312"
+  doi: "10.1016/j.neucom.2025.131291"
+  url: "https://www.sciencedirect.com/science/article/pii/S0925231225019630"
+  
