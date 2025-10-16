@@ -49,7 +49,7 @@ This section provides a quick guide to get you started with the dataset.
        with open(labels_file_path, 'r') as f:
            for line in f:
                # Label format: {sample_path}{space}{integer_label}
-               # e.g., "./samples/contaminated/N(724).png 6"
+               # e.g., "./samples/contaminated/N(725).png 6"
                parts = line.strip().split()
                if len(parts) == 2:
                    path, label = parts
