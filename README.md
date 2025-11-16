@@ -12,7 +12,18 @@ It is a reclassified version of the original bi-class dataset published by the w
 
 ## How to Use
 
-This section provides a quick guide to get you started with the dataset.
+This section provides two primary ways to access and use the dataset.
+
+### Option 1: Kaggle
+
+For the fastest way to get started, we recommend using our official Kaggle dataset. You can run code directly in your browser.
+
+* Want to get started in your browser? 👉Use our [Official Kaggle Dataset](https://www.kaggle.com/datasets/fenghsueh/tri-class-ball-screw-surface-defects).    
+* Want to see a starter notebook? 👉 Fork our [Quick Start Notebook](https://www.kaggle.com/code/fenghsueh/tri-class-ball-screw-surface-defects-quick-start). 
+
+### Option 2: GitHub
+
+For research deployment, you can clone this repository for the complete, original file structure.
 
 1. **Star & Clone**: Please consider ⭐️starring this repository if you find it useful, and 📥clone it to get started:
 
