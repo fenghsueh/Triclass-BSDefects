@@ -4,9 +4,7 @@
 
 ## Introduction
 
-This is the public repository hosting the three-class dataset for ball screw surface defects, hereinafter referred as ``KIT-BS-recls``, used in the journal paper “**[Domain-unique group- and its subgroups-aware fault diagnostics for machine components: An open-set domain adaptation approach](https://doi.org/10.1016/j.neucom.2025.131291)**” from amtc Advanced Manufacturing Technology Center at Tongji University. 
-
-It is a reclassified version of the original bi-class dataset published by the wbk Institute of Production Science at the Karlsruhe Institute of Technology, hereinafter referred as ``KIT-BS``.
+This is the public repository hosting the three-class dataset for ball screw surface defects, hereinafter referred as ``KIT-BS-recls``, used in the journal paper “**[Domain-unique group- and its subgroups-aware fault diagnostics for machine components: An open-set domain adaptation approach](https://doi.org/10.1016/j.neucom.2025.131291)**” jointly published by amtc Advanced Manufacturing Technology Center at Tongji University, and the wbk Institute of Production Science at the Karlsruhe Institute of Technology. 
 
 **If you use this dataset in your research, please cite our paper (details in the `Citation` section).**
 
@@ -123,10 +121,6 @@ The dataset consists of 21,835 image samples representing different surface cond
 - `contaminated` (label: 6) — 7,523 samples  
 - `normal` (label: 8) — 3,552 samples  
 
-### Note on Relabellings
-
-The `KIT-BS-recls` dataset was adapted by relabeling a subset of the `normal` class samples in `KIT-BS` to form a new category: `contaminated`. This reflects samples affected by lubricant contamination and improves the clarity of the classification task.
-
 ## Directory Layout
 
 ```
@@ -148,9 +142,7 @@ KIT-BS-recls/
 
 ## Citation
 
-If you use this dataset or find it helpful, please consider citing our paper and/or the original work:
-
-1. This repository & related paper: 
+If you use this dataset or find it helpful, please consider citing our paper:
 
 ```BibTex
 @article{XUE2025131291,
@@ -164,23 +156,6 @@ doi = {https://doi.org/10.1016/j.neucom.2025.131291},
 url = {https://www.sciencedirect.com/science/article/pii/S0925231225019630},
 author = {Feng Xue and Weimin Zhang and Shulian Xie and Alexander Puchta and Jürgen Fleischer},
 keywords = {open-set domain adaptation, fault diagnosis, rolling bearing, ball screw, adversarial learning, transfer learning}
-}
-```
-
-2. The original two-class dataset & related paper: 
-
-```BibTex
-@article{SCHLAGENHAUF2021107643,
-title = {Industrial machine tool component surface defect dataset},
-journal = {Data in Brief},
-volume = {39},
-pages = {107643},
-year = {2021},
-issn = {2352-3409},
-doi = {https://doi.org/10.1016/j.dib.2021.107643},
-url = {https://www.sciencedirect.com/science/article/pii/S2352340921009185},
-author = {Tobias Schlagenhauf and Magnus Landwehr},
-keywords = {Condition monitoring, Deep learning, Machine learning, Object detection, Semantic segmentation, Instance segmentation, Classification, Dataset}
 }
 ```
 
